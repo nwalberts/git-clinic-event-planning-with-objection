@@ -5,6 +5,11 @@ class Event extends Model {
     return "events"
   }
 
+
+  relationMapping(){
+    return {}
+  }
+
   static get jsonSchema() {
     return {
       type: "object",
