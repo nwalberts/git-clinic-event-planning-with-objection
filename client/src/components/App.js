@@ -2,6 +2,8 @@ import React from "react"
 import { BrowserRouter, Switch, Route } from "react-router-dom"
 import { hot } from "react-hot-loader/root"
 
+import "../assets/scss/main.scss"
+
 import CategoriesList from "./CategoriesList"
 import CategoryShow from "./CategoryShow"
 import EventShow from "./EventShow"

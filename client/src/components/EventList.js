@@ -1,1 +1,1 @@
-I am an event list component
+I am an event list component 
