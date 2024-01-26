@@ -1,3 +1,3 @@
-## Destiny Event Planning Cool App - Go Guardians - We Will the Day v2: Season of the Coding - the Rebirth
+## Snowboarding - Shred Tubular Butter Flip 3000 the Rebirth: Season of the Shredding Butter
 
 this is for a git clinic
